@@ -173,6 +173,13 @@ public class RestApiConfig {
 }
 ```
 
+### Output from localhost
+![image](https://github.com/user-attachments/assets/58a1dd98-3e4c-4581-9355-58d511df6e65)
+
+### Output from terminal console
+![image](https://github.com/user-attachments/assets/cc75e5bd-e903-4eb2-bfd3-d28a178ce96b)
+
+
 
 ## Unit Tests Code Structure
 ### RestApiControllerTest
@@ -255,3 +262,8 @@ Then, the code will proceed to make 2 test which is `testGetPosts()` and `testFi
         assertEquals(postWithLongestTitle.getTitle().length(), postWithLongestTitle.getTitleLength());
     }
 ```
+
+### Test Result
+![image](https://github.com/user-attachments/assets/a1e921da-b7da-487e-8d5e-94e763a9441c)
+
+
