@@ -175,7 +175,7 @@ public class RestApiConfig {
 
 
 ## Unit Tests Code Structure
-###RestApiControllerTest
+### RestApiControllerTest
 This test class involve testing and validating `getPosts()` and `findPostWithLongestTitle` function in `RestApiController`. Firstly, the test class will setup mockPosts using the PostModel to create a mock data
 ```java
 @ExtendWith(MockitoExtension.class)
