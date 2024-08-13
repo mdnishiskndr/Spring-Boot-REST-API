@@ -1,7 +1,13 @@
 # Spring Boot REST API
 This is a coding exercise to connect with JSONPlaceholder API https://jsonplaceholder.typicode.com/ and retrieves a list of "post" from the endpoint https://jsonplaceholder.typicode.com/posts.
 
-
+## Table of Content
+- [Codes Overview](#Codes-Overview)
+- [Installation and Setup](#Installation-and-Setup)
+- [Running the Application](#Running-the-Application)
+- [Running Unit Tests](#Running-Unit-Tests)
+- [Application Codes Structure](#Application-Codes-Structure)
+- [Unit Tests Code Structure](#Unit-Tests-Code-Structure)
 
 ## Codes Overview
 - `PostModel.java`: A model class representing a Post.
