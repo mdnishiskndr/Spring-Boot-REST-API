@@ -1,5 +1,5 @@
 # Spring Boot REST API
-This is a coding exercise to connect with JSONPlaceholder API https://jsonplaceholder.typicode.com/ and retrieves a list of "post" from the endpoint https://jsonplaceholder.typicode.com/posts.
+This is a coding exercise to connect with JSONPlaceholder API `https://jsonplaceholder.typicode.com/` and retrieves a list of "post" from the endpoint `https://jsonplaceholder.typicode.com/posts`.
 
 ## Table of Content
 - [Codes Overview](#Codes-Overview)
